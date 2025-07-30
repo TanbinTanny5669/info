@@ -1,12 +1,13 @@
 ---
-title: "An Effective Data Driven Approach to Predict Bike Rental Demand"
+title: "Spatiotemporal Data-Driven Hourly Bike-Sharing Demand Prediction Using ApexBoost Regression
+Authors
+"
 collection: publications
-category: conferences
-permalink: /publication/bike_demand_prediction
+category: Journal
+permalink: /publication/hourly_bike_demand_prediction
 excerpt: 
-date: 25 March 2024
-venue: '2023 5th International Conference on Sustainable Technologies for Industry 5.0 (STI)'
+date: 4 June 2025
 #slidesurl: ''
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/10464738'
-citation: 'M. M. Isalm, M. E. Biswas, M. Shahzamal, M. D. Haque and M. S. Hossain, "An Effective Data Driven Approach to Predict Bike Rental Demand," 2023 5th International Conference on Sustainable Technologies for Industry 5.0 (STI), Dhaka, Bangladesh, 2023, pp. 1-5, doi: 10.1109/STI59863.2023.10464738.'
+paperurl: 'https://doi.org/10.1007/s41060-025-00820-0'
+citation: 'Biswas, M.E., Hossain, M.D., Huh, E.N. and Sultana, T., 2025. Spatiotemporal Data-Driven Hourly Bike-Sharing Demand Prediction Using ApexBoost Regression. International Journal of Data Science and Analytics, pp.1-24'
 ---
