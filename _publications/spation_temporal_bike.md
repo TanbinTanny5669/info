@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Approach to Estimate Requirements for Target Productivity of Garments Employees"
 collection: publications
-category: journals
+category: Journals
 permalink: /publication/estimate_business_requirements 
 excerpt: 
 date: 23-05-2024
