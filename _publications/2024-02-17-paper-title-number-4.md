@@ -1,6 +1,5 @@
 ---
 title: "Spatio-temporal feature engineering and selection-based flight arrival delay prediction using deep feedforward regression network
-Authors
 "
 collection: publications
 category: manuscripts
