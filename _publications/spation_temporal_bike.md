@@ -1,13 +1,12 @@
 ---
-title: "Machine Learning Approach to Estimate Requirements for Target Productivity of Garments Employees"
+title: "DERIENet: A Deep Ensemble Learning Approach for High-Performance Detection of Jute Leaf Diseases"
 collection: publications
 category: manuscripts
-permalink: /publication/estimate_business_requirements 
+permalink: /publication/jute_leaf_disease_detection
 excerpt: 
-date: 23-05-2024
-venue: '2024 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)'
+date: 2025
 #slidesurl: ''
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/10534399'
-citation: 'M. E. Biswas, M. Shahzamal and M. D. Haque, "Machine Learning Approach to Estimate Requirements for Target Productivity of Garments Employees," 2024 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT), Dhaka, Bangladesh, 2024, pp. 921-926, doi: 10.1109/ICEEICT62016.2024.10534399.'
+paperurl: 'https://doi.org/10.3390/info16080638'
+citation: 'Tanny M, Yasmin T, Sultana T, Biswas ME, Modok CK, Akter A, Uddin MS, Hossain MD. DERIENet: A Deep Ensemble Learning Approach for High-Performance Detection of Jute Leaf Diseases. Information. 2025 Aug.'
 ---
 
