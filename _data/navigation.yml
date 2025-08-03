@@ -6,7 +6,7 @@
 
 main:
   - title: "CV"
-    url: /files/emran_biswas_cv.pdf
+    url: /cv/
     
   - title: "Portfolio"
     url: /portfolio/  
