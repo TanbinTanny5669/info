@@ -1,13 +1,13 @@
 ---
-title: "Machine Learning Approach to Estimate Requirements for Target Productivity of Garments Employees"
+title: "Customized EfficientNet: A Transfer Learning Approach for Rice Leaf Disease Classification with Advanced Resizing and Augmentation"
 collection: publications
 category: conferences
-permalink: /publication/estimate_business_requirements 
+permalink: /publication/rice_leaf_disease_ecce 
 excerpt: 
-date: 23-05-2024
-venue: '2024 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)'
+date: 13-02-2025
+venue: '2025 International Conference on Electrical, Computer and Communication Engineering (ECCE)'
 #slidesurl: ''
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/10534399'
-citation: 'M. E. Biswas, M. Shahzamal and M. D. Haque, "Machine Learning Approach to Estimate Requirements for Target Productivity of Garments Employees," 2024 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT), Dhaka, Bangladesh, 2024, pp. 921-926, doi: 10.1109/ICEEICT62016.2024.10534399.'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/11013880'
+citation: 'Tanny, M.T.Y., Biswas, M.E., Akter, A., Modok, C.K., Nipu, M.H.N., Hasan, M., Hossain, M.D., Mandal, A.K., Hossain, M.S. and Sultana, T., 2025, February. Customized EfficientNet: A Transfer Learning Approach for Rice Leaf Disease Classification with Advanced Resizing and Augmentation. In 2025 International Conference on Electrical, Computer and Communication Engineering (ECCE) (pp. 1-6). IEEE.'
 ---
 
