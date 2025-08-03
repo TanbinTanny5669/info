@@ -49,13 +49,31 @@ Lead: Dr. Tangina Sultana
 
 ## Publications
 
-- Biswas, M.E., Hossain, M.D., Huh, E.N., and Sultana, T., 2025. *Spatiotemporal Data-Driven Hourly Bike-Sharing Demand Prediction Using ApexBoost Regression*. International Journal of Data Science and Analytics, pp.1-24.  
-- Biswas, M.E., Sultana, T., Mandal, A.K., Golam Morshed, M., and Hossain, M.D., 2024. *Spatio-Temporal Feature Engineering and Selection-Based Flight Arrival Delay Prediction Using Deep Feedforward Regression Network*. Electronics, 13(24), p.4910.  
-- Biswas, M.E., Ahamed, M.S., Rafi, M.A.H., and Haque, M.D., 2024, October. *An Adaptive Machine Learning Approach for Electrical Fault Detection and Minimization*. In 2024 2nd International Conference on Information and Communication Technology (ICICT) (pp. 274-278).  
-- Biswas, M.E., Hasan, M.G., Hossain, M.J., Basar, M.A., and Hossain, M.S., 2024, October. *A Bioinformatics Approach to Identify Hub Genes Across Schizophrenia, Anxiety, Bipolar Disorder, and Depressive Disorder for Network-Based Drug Discovery*. In 2024 2nd International Conference on Information and Communication Technology (ICICT) (pp. 304-308). IEEE.  
-- Biswas, M.E., Mihad, M.F.H., Sojib, F.H., Ahmmed, M.J., Hasan, M.G., Hossain, M.J., Basar, M.A., Islam, M.M., Hossain, M.D., and Hossain, M.S., *A Bioinformatics Approach to Uncover Hub Genes and Potential Drug Targets of Stroke, Heart-Disease, Hyperglycemia, and Hypertension*.  
-- Biswas, M.E., Shahzamal, M., and Haque, M.D., 2024, May. *Machine Learning Approach to Estimate Requirements for Target Productivity of Garments Employees*. In 2024 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT) (pp. 921-926). IEEE.  
-- Tanny, M.T.Y., Biswas, M.E., Akter, A., Modok, C.K., Nipu, M.H.N., Hasan, M., Hossain, M.D., Mandal, A.K., Hossain, M.S., and Sultana, T., 2025, February. *Customized EfficientNet: A Transfer Learning Approach for Rice Leaf Disease Classification with Advanced Resizing and Augmentation*. In 2025 International Conference on Electrical, Computer and Communication Engineering (ECCE) (pp. 1-6). IEEE.
+## 📚 Publications
+
+- [Spatiotemporal Data-Driven Hourly Bike-Sharing Demand Prediction Using ApexBoost Regression](https://link.springer.com/article/10.1007/s41060-025-00447-y)  
+  *Publisher:* Springer Nature
+  *Journal:* International Journal of Data Science and Analytics
+
+- [Spatio-Temporal Feature Engineering and Selection-Based Flight Arrival Delay Prediction Using Deep Feedforward Regression Network](https://www.mdpi.com/2079-9292/13/24/4910)  
+  *Publisher:* MDPI
+  *Journal:* International Journal of Data Science and Analytics
+
+- [An Adaptive Machine Learning Approach for Electrical Fault Detection and Minimization](https://ieeexplore.ieee.org/document/10511402)
+  *Publisher:* IEEE
+
+- [A Bioinformatics Approach to Identify Hub Genes Across Schizophrenia, Anxiety, Bipolar Disorder, and Depressive Disorder for Network-Based Drug Discovery](https://ieeexplore.ieee.org/document/10511423)  
+  *Publisher:* IEEE
+
+- A Bioinformatics Approach to Uncover Hub Genes and Potential Drug Targets of Stroke, Heart-Disease, Hyperglycemia, and Hypertension
+  *Publisher:* IEEE
+ 
+- [Machine Learning Approach to Estimate Requirements for Target Productivity of Garments Employees](https://ieeexplore.ieee.org/document/10468923)  
+  *Publisher:* IEEE
+
+- [Customized EfficientNet: A Transfer Learning Approach for Rice Leaf Disease Classification with Advanced Resizing and Augmentation](https://ieeexplore.ieee.org/document/10546099)  
+  *Publisher:* IEEE
+
 
 ---
 
