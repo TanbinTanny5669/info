@@ -47,7 +47,6 @@ Lead: Dr. Tangina Sultana
 
 ---
 
-## Publications
 
 ## 📚 Publications
 
@@ -77,7 +76,7 @@ Lead: Dr. Tangina Sultana
 
 ---
 
-## On-Going Projects
+## On-Going Researches
 
 - Revnet: An Optimized Deep Ensemble Model for Accurate Sugarcane Leaf Disease Classification  
 - Cow-Muzzle Classification Using Vision Transformer Based Model  
