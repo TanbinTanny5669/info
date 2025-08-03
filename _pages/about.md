@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome! I am a data science enthusiast and aspiring researcher dedicated to designing, developing, and evaluating machine learning algorithms that address real-world challenges across domains such as intelligent transportation, natural language processing, and bioinformatics. I graduated in Electronics and Communication Engineering from Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh. I have a deep passion for interdisciplinary research, especially at the intersection of artificial intelligence and societal benefit, with a long-term goal of contributing to the field of **AI for Good.**  
 
-<span style="color:red">I am currently seeking a PhD position in the doimain of Data Science, Machine Learning and Artificial Intelligence</span>
+<span style="color:red">I am currently seeking for PhD position in the doimain of Data Science, Machine Learning and Artificial Intelligence</span>
 
 
 ---
