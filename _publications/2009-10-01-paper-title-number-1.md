@@ -1,6 +1,7 @@
 ---
 title: "Machine Learning Approach to Estimate Requirements for Target Productivity of Garments Employees"
 collection: publications
+category: conferences
 permalink: /publication/estimate_business_requirements 
 date: 23-05-2024
 venue: '2024 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)'
