@@ -1,35 +1,41 @@
 ---
 permalink: /
-title: "👋 Hello there, I'm Emran"
+title: "About Md. Emran Biswas"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-👨‍🏫 I've completed BSc (Engineering) in ECE from Hajee Mohammad Danesh Science and Technology University, Dinajpur, Bangladesh.
 
-🔬 My research interest are in machine learning, optimization and drug disocovery.
 
-✨ I'm also interest in assisting other on their path in the world of machine learing and optimization.
+Welcome! I am a data science enthusiast and aspiring researcher dedicated to designing, developing, and evaluating machine learning algorithms that address real-world challenges across domains such as intelligent transportation, natural language processing, and bioinformatics. I’ve graduated in Electronics and Communication Engineering from Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh. I have a deep passion for interdisciplinary research, especially at the intersection of artificial intelligence and societal benefit, with a long-term goal of contributing to the field of **AI for Good**.
 
-## Selected Experience
+I am the developer of **ApexBoost Regression (ABR)**, a novel machine learning model designed for precise, station-level hourly bike-sharing demand forecasting using spatiotemporal data. My recent work focuses on integrating spatial and temporal patterns to improve predictive performance in smart mobility systems. In addition to developing foundational ML models, I am expanding my research horizons into +large language models**, **task offloading in edge/cloud computing**, and **bioinformatics** — leveraging AI to push boundaries in healthcare, urban infrastructure, and human-centered computing.
 
-Position: Research Assistant / Intern  
-Organization Name: Hajee Mohammad Danesh Science and Technology University
-Location: Dinajpur-5200, Bangladesh
-Dates of Employment: June, 2022
+---
 
-**Responsibilities**:
-- Conducted research on predictive analysis, optimization and bioinformatics based drug discovery.
-- Assisted in the development of the Adaptive Fault Reduction Algorithm (AFRA) for optimizing power systems.
-- Collaborated with team members to enhance predictive models for bike-sharing demand using ApexBoost Regression (ABR).
+## Research Interests
 
-**Achievements**:
-- Contributed to the publication of two research papers in IEEE conferences.
-- Achieved 1st and Second Runner up
+- Foundation Machine Learning Algorithm Development  
+- Large Language Modeling and Natural Language Processing (NLP) Applications  
+- Feature Selection Algorithm Development  
+- Intelligent Transportation Systems (ITS)  
+- Spatial-Temporal Fusion for Urban Mobility  
+- Task Offloading in Edge and Cloud Computing  
+- Bioinformatics  
 
-**Skills Developed**:
-- Proficient in machine learning algorithms and data analysis techniques.
-- Enhanced programming skills in Python, including libraries like NumPy, scikit-learn, and TensorFlow.
-- Improved teamwork and communication skills through collaborative projects.
+---
+
+## Recent News
+
+
+- 📢 Our research paper titled **DERIENet: A Deep Ensemble Learning Approach for High-Performance Detection of Jute Leaf Diseases** published in *Information*, 2025  
+- 📢 Our research paper titled **Spatiotemporal Data-Driven Hourly Bike-Sharing Demand Prediction Using ApexBoost Regression** published in *International Journal of Data Science and Analytics*, 2025  
+- 📢 Our research paper titled **Spatio-temporal Feature Engineering and Selection-based Flight Arrival Delay Prediction Using Deep Feedforward Regression Network** published in *Electronics*, 2024  
+- 📢 Our conference paper titled **Customized EfficientNet: A Transfer Learning Approach for Rice Leaf Disease Classification with Advanced Resizing and Augmentation** presented at *2025 International Conference on Electrical, Computer and Communication Engineering (ECCE)*  
+- 📢 Our conference paper titled **An Adaptive Machine Learning Approach for Electrical Fault Detection and Minimization** presented at *2024 2nd International Conference on Information and Communication Technology (ICICT)*  
+- 📢 Our conference paper titled **A Bioinformatics Approach to Identify Hub Genes Across Schizophrenia, Anxiety, Bipolar Disorder, and Depressive Disorder for Network-Based Drug Discovery** presented at *2024 2nd International Conference on Information and Communication Technology (ICICT)*  
+- 📢 Our conference paper titled **A Bioinformatics Approach to Uncover Hub Genes and Potential Drug Targets of Stroke, Heart-Disease, Hyperglycemia, and Hypertension** presented at *2024 27th International Conference on Computer and Information Technology (ICCIT)*  
+- 📢 Our conference paper titled **Machine Learning Approach to Estimate Requirements for Target Productivity of Garments Employees** presented at *2024 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)*  
+- 📢 Our conference paper titled **An Effective Data Driven Approach to Predict Bike Rental Demand** presented at *2023 5th International Conference on Sustainable Technologies for Industry 5.0 (STI)*  
 
