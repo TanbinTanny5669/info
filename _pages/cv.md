@@ -51,27 +51,27 @@ Lead: Dr. Tangina Sultana
 
 ## 📚 Publications
 
-- [Spatiotemporal Data-Driven Hourly Bike-Sharing Demand Prediction Using ApexBoost Regression](https://link.springer.com/article/10.1007/s41060-025-00447-y)  
-  *Publisher:* Springer Nature
+- [Spatiotemporal Data-Driven Hourly Bike-Sharing Demand Prediction Using ApexBoost Regression](https://link.springer.com/article/10.1007/s41060-025-00820-0)  <br>
+  *Publisher:* Springer Nature <br>
   *Journal:* International Journal of Data Science and Analytics
 
-- [Spatio-Temporal Feature Engineering and Selection-Based Flight Arrival Delay Prediction Using Deep Feedforward Regression Network](https://www.mdpi.com/2079-9292/13/24/4910)  
-  *Publisher:* MDPI
+- [Spatio-Temporal Feature Engineering and Selection-Based Flight Arrival Delay Prediction Using Deep Feedforward Regression Network](https://www.mdpi.com/2079-9292/13/24/4910)  <br>
+  *Publisher:* MDPI <br>
   *Journal:* International Journal of Data Science and Analytics
 
-- [An Adaptive Machine Learning Approach for Electrical Fault Detection and Minimization](https://ieeexplore.ieee.org/document/10511402)
+- [An Adaptive Machine Learning Approach for Electrical Fault Detection and Minimization](https://ieeexplore.ieee.org/abstract/document/10839714) <br>
   *Publisher:* IEEE
 
-- [A Bioinformatics Approach to Identify Hub Genes Across Schizophrenia, Anxiety, Bipolar Disorder, and Depressive Disorder for Network-Based Drug Discovery](https://ieeexplore.ieee.org/document/10511423)  
+- [A Bioinformatics Approach to Identify Hub Genes Across Schizophrenia, Anxiety, Bipolar Disorder, and Depressive Disorder for Network-Based Drug Discovery](https://ieeexplore.ieee.org/abstract/document/10839732)  <br>
   *Publisher:* IEEE
 
-- A Bioinformatics Approach to Uncover Hub Genes and Potential Drug Targets of Stroke, Heart-Disease, Hyperglycemia, and Hypertension
+- [A Bioinformatics Approach to Uncover Hub Genes and Potential Drug Targets of Stroke, Heart-Disease, Hyperglycemia, and Hypertension](https://ieeexplore.ieee.org/abstract/document/10839732) <br>
   *Publisher:* IEEE
  
-- [Machine Learning Approach to Estimate Requirements for Target Productivity of Garments Employees](https://ieeexplore.ieee.org/document/10468923)  
+- [Machine Learning Approach to Estimate Requirements for Target Productivity of Garments Employees](https://ieeexplore.ieee.org/abstract/document/10534399)  
   *Publisher:* IEEE
 
-- [Customized EfficientNet: A Transfer Learning Approach for Rice Leaf Disease Classification with Advanced Resizing and Augmentation](https://ieeexplore.ieee.org/document/10546099)  
+- [Customized EfficientNet: A Transfer Learning Approach for Rice Leaf Disease Classification with Advanced Resizing and Augmentation](https://ieeexplore.ieee.org/abstract/document/11013880)  <br>
   *Publisher:* IEEE
 
 
