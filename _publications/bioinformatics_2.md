@@ -1,13 +1,12 @@
 ---
-title: "Machine Learning Approach to Estimate Requirements for Target Productivity of Garments Employees"
-collection: publications
+title: "A Bioinformatics Approach to Uncover Hub Genes and Potential Drug Targets of Stroke, Heart-Disease, Hyperglycemia, and Hypertension
 category: conferences
-permalink: /publication/estimate_business_requirements 
+permalink: /publication/bioinformatics_iccit 
 excerpt: 
 date: 23-05-2024
-venue: '2024 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)'
+venue: '2024 27th International Conference on Computer and Information Technology (ICCIT)'
 #slidesurl: ''
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/10534399'
-citation: 'M. E. Biswas, M. Shahzamal and M. D. Haque, "Machine Learning Approach to Estimate Requirements for Target Productivity of Garments Employees," 2024 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT), Dhaka, Bangladesh, 2024, pp. 921-926, doi: 10.1109/ICEEICT62016.2024.10534399.'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/11022540'
+citation: 'Biswas ME, Mihad MD, Sojib FH, Ahmmed MJ, Hasan MG, Hossain MJ, Basar MA, Islam MM, Hossain MD, Hossain MS. A Bioinformatics Approach to Uncover Hub Genes and Potential Drug Targets of Stroke, Heart-Disease, Hyperglycemia, and Hypertension. In2024 27th International Conference on Computer and Information Technology (ICCIT) 2024 Dec 20 (pp. 3493-3498). IEEE.'
 ---
 
