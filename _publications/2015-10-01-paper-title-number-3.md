@@ -3,7 +3,7 @@ title: "Spatiotemporal Data-Driven Hourly Bike-Sharing Demand Prediction Using A
 Authors
 "
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/hourly_bike_demand_prediction
 excerpt: 
 date: 4 June 2025
