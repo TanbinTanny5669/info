@@ -1,6 +1,5 @@
 ---
 title: "Spatiotemporal Data-Driven Hourly Bike-Sharing Demand Prediction Using ApexBoost Regression
-Authors
 "
 collection: publications
 category: manuscripts
