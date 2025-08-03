@@ -1,5 +1,5 @@
 ---
-title: "A Bioinformatics Approach to Uncover Hub Genes and Potential Drug Targets of Stroke, Heart-Disease, Hyperglycemia, and Hypertension
+title: "A Bioinformatics Approach to Uncover Hub Genes and Potential Drug Targets of Stroke, Heart-Disease, Hyperglycemia, and Hypertension"
 category: conferences
 permalink: /publication/bioinformatics_iccit 
 excerpt: 
