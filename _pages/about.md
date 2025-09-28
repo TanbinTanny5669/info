@@ -9,7 +9,7 @@ redirect_from:
 
 [Google Scholar](https://scholar.google.com/citations?user=j9ltrt8AAAAJ&hl=en) | [GitHub](https://github.com/Emranbiswas) | [ResearchGate](https://www.researchgate.net/profile/Md-Emran-Biswas-2) | [LinkedIn](https://www.linkedin.com/in/md-emran-biswas/)
 
-Welcome! I am a data science enthusiast and aspiring researcher dedicated to designing, developing, and evaluating machine learning algorithms that address real-world challenges across domains such as intelligent transportation, natural language processing, and bioinformatics. I graduated in Electronics and Communication Engineering from Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh. I have a deep passion for interdisciplinary research, especially at the intersection of artificial intelligence and societal benefit, with a long-term goal of contributing to the field of **AI for Good.**  
+Welcome! I am a data science enthusiast and aspiring researcher dedicated to designing, developing, and evaluating machine learning algorithms that address real-world challenges across domains such as AI & ML, intelligent transportation, natural language processing, bioinformatics, task offloading in edge computing. I graduated in Electronics and Communication Engineering from Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh. I have a deep passion for interdisciplinary research, especially at the intersection of artificial intelligence and societal benefit, with a long-term goal of contributing to the field of **AI for Good.**  
 
 
 
@@ -19,9 +19,10 @@ Welcome! I am a data science enthusiast and aspiring researcher dedicated to des
 ## Research Interests
 
 - Foundation Machine Learning Algorithm Development  
-- Large Language Modeling and Natural Language Processing (NLP) Applications  
+- NLP and LLM
 - Feature Selection Algorithm Development  
-- Intelligent Transportation Systems (ITS)  
+- Privacy in AI
+- Explainable AI
 - Spatial-Temporal Fusion for Urban Mobility  
 - Task Offloading in Edge and Cloud Computing  
 - Bioinformatics  
