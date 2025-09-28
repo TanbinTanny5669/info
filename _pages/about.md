@@ -31,7 +31,7 @@ Welcome! I am a data science enthusiast and aspiring researcher dedicated to des
 
 ## Recent News
 
-
+- 📢 Our research paper titled **SSHAD: Self-Supervised Hybrid Model for Anomaly Detection in Graphs** published in *IEEE*, 2025  
 - 📢 Our research paper titled **DERIENet: A Deep Ensemble Learning Approach for High-Performance Detection of Jute Leaf Diseases** published in *Information*, 2025  
 - 📢 Our research paper titled **Spatiotemporal Data-Driven Hourly Bike-Sharing Demand Prediction Using ApexBoost Regression** published in *International Journal of Data Science and Analytics*, 2025  
 - 📢 Our research paper titled **Spatio-temporal Feature Engineering and Selection-based Flight Arrival Delay Prediction Using Deep Feedforward Regression Network** published in *Electronics*, 2024  
