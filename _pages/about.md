@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Md. Emran Biswas"
+title: "About Mst. Tanbin Yasmin Tanny"
 author_profile: true
 redirect_from: 
   - /about/
@@ -33,12 +33,6 @@ Welcome! I am a data science enthusiast and aspiring researcher dedicated to des
 
 - 📢 Our research paper titled **SSHAD: Self-Supervised Hybrid Model for Anomaly Detection in Graphs** published in *IEEE*, 2025  
 - 📢 Our research paper titled **DERIENet: A Deep Ensemble Learning Approach for High-Performance Detection of Jute Leaf Diseases** published in *Information*, 2025  
-- 📢 Our research paper titled **Spatiotemporal Data-Driven Hourly Bike-Sharing Demand Prediction Using ApexBoost Regression** published in *International Journal of Data Science and Analytics*, 2025  
-- 📢 Our research paper titled **Spatio-temporal Feature Engineering and Selection-based Flight Arrival Delay Prediction Using Deep Feedforward Regression Network** published in *Electronics*, 2024  
 - 📢 Our conference paper titled **Customized EfficientNet: A Transfer Learning Approach for Rice Leaf Disease Classification with Advanced Resizing and Augmentation** presented at *2025 International Conference on Electrical, Computer and Communication Engineering (ECCE)*  
-- 📢 Our conference paper titled **An Adaptive Machine Learning Approach for Electrical Fault Detection and Minimization** presented at *2024 2nd International Conference on Information and Communication Technology (ICICT)*  
-- 📢 Our conference paper titled **A Bioinformatics Approach to Identify Hub Genes Across Schizophrenia, Anxiety, Bipolar Disorder, and Depressive Disorder for Network-Based Drug Discovery** presented at *2024 2nd International Conference on Information and Communication Technology (ICICT)*  
-- 📢 Our conference paper titled **A Bioinformatics Approach to Uncover Hub Genes and Potential Drug Targets of Stroke, Heart-Disease, Hyperglycemia, and Hypertension** presented at *2024 27th International Conference on Computer and Information Technology (ICCIT)*  
-- 📢 Our conference paper titled **Machine Learning Approach to Estimate Requirements for Target Productivity of Garments Employees** presented at *2024 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)*  
-- 📢 Our conference paper titled **An Effective Data Driven Approach to Predict Bike Rental Demand** presented at *2023 5th International Conference on Sustainable Technologies for Industry 5.0 (STI)*  
+
 
