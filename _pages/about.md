@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=j9ltrt8AAAAJ&hl=en) | [GitHub](https://github.com/Emranbiswas) | [ResearchGate](https://www.researchgate.net/profile/Md-Emran-Biswas-2) | [LinkedIn](https://www.linkedin.com/in/md-emran-biswas/)
+[Google Scholar](https://scholar.google.com/citations?user=2E9HEzYAAAAJ&hl=en) | [GitHub](https://github.com/TanbinTanny5669)  | [LinkedIn](https://www.linkedin.com/in/tanbin-yasmin-tanny/)
 
-Welcome! I am a data science enthusiast and aspiring researcher dedicated to designing, developing, and evaluating machine learning algorithms that address real-world challenges across domains such as AI & ML, intelligent transportation, natural language processing, bioinformatics, task offloading in edge computing. I graduated in Electronics and Communication Engineering from Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh. I have a deep passion for interdisciplinary research, especially at the intersection of artificial intelligence and societal benefit, with a long-term goal of contributing to the field of **AI for Good.**  
+Welcome! I am a machine learning enthusiast and aspiring researcher passionate about applying cutting-edge technologies—including deep learning, computer vision, and image processing—to solve real-world problems. My research interests lie in predictive modeling, AI system optimization, and explainable AI, with a focus on building intelligent, efficient, and interpretable solutions. I graduated in Electronics and Communication Engineering from Hajee Mohammad Danesh Science and Technology University (HSTU), Bangladesh. I am particularly driven by the transformative potential of artificial intelligence and its role in creating positive societal impact. With a strong belief in the mission of AI for Good, I aim to contribute to research that not only advances technology but also serves humanity.
 
 
 
@@ -19,12 +19,10 @@ Welcome! I am a data science enthusiast and aspiring researcher dedicated to des
 ## Research Interests
 
 - Foundation Machine Learning Algorithm Development  
-- NLP and LLM
-- Feature Selection Algorithm Development  
-- Privacy in AI
+- Deep Learning
+- Computer Vision  
+- Image Processing
 - Explainable AI
-- Spatial-Temporal Fusion for Urban Mobility  
-- Task Offloading in Edge and Cloud Computing  
 - Bioinformatics  
 
 ---
