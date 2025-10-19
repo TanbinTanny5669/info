@@ -18,19 +18,21 @@ Welcome! I am a machine learning enthusiast and aspiring researcher passionate a
 
 ## Research Interests
 
-- Foundation Machine Learning Algorithm Development  
+- Machine Learning  
 - Deep Learning
 - Computer Vision  
 - Image Processing
 - Explainable AI
-- Bioinformatics  
+- Bioinformatics
+
 
 ---
 
 ## Recent News
 
 - 📢 Our research paper titled **SSHAD: Self-Supervised Hybrid Model for Anomaly Detection in Graphs** published in *IEEE*, 2025  
-- 📢 Our research paper titled **DERIENet: A Deep Ensemble Learning Approach for High-Performance Detection of Jute Leaf Diseases** published in *Information*, 2025  
+- 📢 Our Journal paper titled **DERIENet: A Deep Ensemble Learning Approach for High-Performance Detection of Jute Leaf Diseases** published in
+*Information*, 2025  
 - 📢 Our conference paper titled **Customized EfficientNet: A Transfer Learning Approach for Rice Leaf Disease Classification with Advanced Resizing and Augmentation** presented at *2025 International Conference on Electrical, Computer and Communication Engineering (ECCE)*  
 
 
